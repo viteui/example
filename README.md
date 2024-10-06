@@ -1,6 +1,6 @@
 # 在线Demo
 
-## # TinyPNG图片压缩工具
+## TinyPNG图片压缩工具
 
 ![image-20241005120141325](https://cdn.jsdelivr.net/gh/viteui/viteui.github.io@web-image/web/image/202410051201463.png)
 
